@@ -11,7 +11,7 @@ A secure web application built with **Python Flask** that demonstrates real-worl
 
 | Register | Login | Dashboard |
 |---|---|---|
-| ![Register Page](screenshots/register.png) | ![Login Page](screenshots/login.png) | ![Dashboard Page](screenshots/dashboard.png) |
+| ![Register Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102805.png") | ![Login Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102732.png") | ![Dashboard Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102820.png") |
 
 > *Add your own screenshots in a `/screenshots` folder after running the app.*
 

@@ -4,19 +4,7 @@
 A secure web application built with **Python Flask** that demonstrates real-world authentication best practices — including hashed passwords, session management, SQL injection prevention, and input validation.
 
 > ⚠️ **Educational Project** — Built as part of a cybersecurity internship to demonstrate secure authentication concepts.
-
----
-
-## 📸 Screenshots
-
-| Register | Login | Dashboard |
-|---|---|---|
-| ![Register Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102805.png") | ![Login Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102732.png") | ![Dashboard Page]("C:\Users\divy1\OneDrive\Pictures\Screenshots\Screenshot 2026-10-07 102820.png") |
-
-> *Add your own screenshots in a `/screenshots` folder after running the app.*
-
----
-
+h
 ## ✨ Features
 
 - ✅ **User Registration** — with input validation and duplicate detection

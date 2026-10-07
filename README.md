@@ -156,8 +156,8 @@ pip install flask bcrypt
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@YOUR_USERNAME](https://github.com/Divypatel-tech)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kdpcom2026divy7098/)
 
 ---
 
